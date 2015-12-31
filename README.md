@@ -1,7 +1,7 @@
-twitter.github.com
+chicago.github.com
 ======
 
-The source code of http://twitter.github.com/
+To be the landing page for the Chicago GitHub projects based on source code of http://twitter.github.com/
 
 LICENSE
 ------------
