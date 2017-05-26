@@ -1,11 +1,4 @@
 chicago.github.com
 ======
 
-To be the landing page for the Chicago GitHub projects based on source code of http://twitter.github.com/
-
-LICENSE
-------------
-
-Copyright 2012 Twitter, Inc.
-
-Licensed under the Apache License, Version 2.0: http://www.apache.org/licenses/LICENSE-2.0
+This site now redirects to https://dev.cityofchicago.org/projects/.
